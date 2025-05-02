@@ -1,0 +1,7 @@
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertirTemperaturas\ConvertirTemperaturas\bin\Debug\ConvertirTemperaturas.exe.config
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertirTemperaturas\ConvertirTemperaturas\bin\Debug\ConvertirTemperaturas.exe
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertirTemperaturas\ConvertirTemperaturas\bin\Debug\ConvertirTemperaturas.pdb
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertirTemperaturas\ConvertirTemperaturas\obj\Debug\ConvertirTemperaturas.csproj.AssemblyReference.cache
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertirTemperaturas\ConvertirTemperaturas\obj\Debug\ConvertirTemperaturas.csproj.CoreCompileInputs.cache
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertirTemperaturas\ConvertirTemperaturas\obj\Debug\ConvertirTemperaturas.exe
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertirTemperaturas\ConvertirTemperaturas\obj\Debug\ConvertirTemperaturas.pdb
